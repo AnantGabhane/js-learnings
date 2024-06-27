@@ -1,0 +1,71 @@
+[1] what is JS
+- Become full stack
+
+Where does JS code runs?
+    - initially designed to run on browser
+    - browser had JS engine
+    - Chrome : V8 engine 
+
+Node 
+ - Ryan took JS engine in chrome and embedded it inside a C++ program called Node
+ - Node is cpp program that includes V8 engine 
+ - Because of this we can run JS code outside the browser
+ - we can pass our JS code to node for execution 
+ - Due to this we can build backend for our web and mobile app
+
+browsers and node provide a runtime environment for our JS code
+
+Difference between JS and ECMAScript :
+- JS is a language & ECMAScript is specification
+
+- 2015 they released ES6 
+
+- chrome Inspect -> console 
+
+[2] Js needs
+- need node to install 3rd party libraries 
+
+[3] How to install node 
+    <script src="index.js"></script>
+    tells html Where all the js changes are 
+    To install node - refer - https://nodejs.org/en/download/package-manager
+
+[4] What is node?
+    - node executes js code in terminal 
+    - runtime env for js code ->> node 
+
+[5] variables
+    - varible to store data temp 
+    - we store data some where in computer memory and give that location a name 
+    - varible is a name given to a location in memory
+
+[6] constant 
+    - we don't want variable value to be changed
+    - no need to redefine then use const and if we need reassign value then we use variable
+
+[7] Dynamic Typing 
+    - Static language - when we declare a var then type of var is set and cannot be changed
+
+    - Dynamic language - type of var can be changed at runtime 
+
+    typeof (varname)
+
+    primitive / value types
+        string 
+        number
+        boolean
+        undefined
+        null
+
+    - undefined is also a var type in js
+
+[8] Objects 
+    - Refernce type 
+        Object 
+        Array 
+        Function
+
+    - Object has properties like a person has ie name, age, gender.
+    - object has key and value pairs
+        keys - properties of the object
+        values - values of the properties
