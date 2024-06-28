@@ -69,3 +69,27 @@ Difference between JS and ECMAScript :
     - object has key and value pairs
         keys - properties of the object
         values - values of the properties
+
+"JS is a Dynamic language so type of variables can be chnaged at runtime"
+
+[9] Array
+    - Array is a collection of values ie objects 
+    - we use arrays to store list of objects
+    - length of arary is also Dynamic it can also change 
+    - we store multiple types of element in array
+    - objects and size of array is Dynamic
+    .length properties of the array shows the no of elements in the array.
+    - DS we use to represent list of items 
+
+[10] Functions
+    - fundamental building block in js
+    - function performs a set of asks 
+    - function can have inputs and inputs can change how the function behaves
+    - function input is called as parameter
+    - parameter is called variable that is only meaningful inside a function
+    - we pass argument while calling a function and we pass parameter while defining a function
+    - function can have multiple parameters
+    - if we don't pass to variable in js it is by default undefined
+
+[11] Types of functions 
+    - 
